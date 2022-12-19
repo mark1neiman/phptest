@@ -1,7 +1,7 @@
 <?php
 
 $name = readline("Hello, what is your name?\n");
-// $tasks = readline("How many tasks do you have today?\n");
+
 $task1 = readline("What is your first task today?\n");
 $task1Time = readline("How much time do you need to complete this task?\n");
 
